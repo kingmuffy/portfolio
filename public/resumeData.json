@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Mofe Ojei",
+    "occupation": "Founder of KINGMUFFY",
+    "description": "I dream for a better life in a difficult world",
+    "image": "profilepic.jpg",
+    "bio": " Hi there ! I am mofe! You might also know me as KINGMUFFY, I am a Junior Web Developer, During the day I solve customer problems in an F&B company, at night I work on E-commerce problems, I programme the best way marketting and E-commerce should be defined. I have worked with both startups and freelenced projects. Along the journey I discovered my love for programming, I intent to pursue my dream, I believe nothing can stop me! ",
+    "contactmessage": "Get in touch with me and be a part of the quest for a better life !",
+    "email":  "admin@kingmuffy.com",
+    "phone": "+971 567009579",
+    "address": {
+      "street": " Business Bay",
+      "city": "Middle East and Asia",
+      "state": "Dubai",
+      "zip": "0000"
+    },
+    "website": "https://www.kingmuffy.com",
+    "resumedownload": "http://kingmuffy.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA/",
+        "className": "fab fa-whatsapp"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/muffyboy/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kingmuffy-ojei-0301121a6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kingmuffyatse/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kingmuffy",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Technology Akure - FUTA",
+        "degree": "Bachelor of Technology Degree, Remote Sensing",
+        "graduated": "July 2016",
+        "description": "Graduated with Second Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mshop",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "making shopping as ease as possible. solving future problems of Africa"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "GrandkingStyle (React JS)",
+        "category": "",
+        "image": "grandking.JPG",
+        "url": "grandking.kingmuffy.com"
+      },
+      {
+        "title": "mshop(React JS)",
+        "category": "",
+        "image": "mmshop.jpg",
+        "url": "mshop.kingmuffy.com"
+      },
+      {
+        "title": " FFI staff connect (React JS)",
+        "category": "",
+        "image": "ffi.jpg", 
+        "url": "kingmuffy.com/ffi"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mofe is absolutely excellent, his depth of knowledge & his passion for results really meant a lot to us... I would definitely recommend",
+        "user": " Farida Buma"
+      },
+      {
+        "text": "Working with Mofe has been AWESOME, he makes GIS a fun experience, React so easy and approachable, you'll always be happy with projects achieved!",
+        "user": "Elijah Owoseni"
+      }
+    ]
+  }
+}
